@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm SHREYA NADKARNI</h1>
-<h3 align="center">A data science aspirant </h3>
+<h3 align="center">A Data Science Aspirant </h3>
 
 - 👯 I’m looking to collaborate on **real world projects**
 
