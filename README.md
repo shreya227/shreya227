@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya227&label=Profile%20views&color=0e75b6&style=flat" alt="shreya227" /> </p>
 
-- 🔭 I’m currently working as [Data Analyst-Engineer Intern](at ResoluteAI.in)
+- 🔭 I’m currently working as Data Analyst-Engineer Intern at ResoluteAI.in
 
 - 📫 How to reach me **shreyanadkarni95105@gmail.com**
 
