@@ -1,4 +1,4 @@
-![header](https://github.com/PrakashAnalyst/PrakashAnalyst/blob/main/assets/header_.png)
+(https://github.com/PrakashAnalyst/PrakashAnalyst/blob/main/assets/header_.png)
 <h1 align="center"> Hi, I am Shreya Nadkarni <img src="https://raw.githubusercontent.com/PrakashAnalyst/PrakashAnalyst/main/assets/hi.gif" width="30px"></h1> 
 <h3 align="center">I'm a Data Science Fanatic from India ♥️</h3>
 
