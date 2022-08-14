@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I am Shreya Nadkarni <img src="https://raw.githubusercontent.com/PrakashAnalyst/PrakashAnalyst/main/assets/hi.gif" width="30px"></h1> 
 <h3 align="center">I'm a Data Science Fanatic from India ♥️</h3>
 
-I am a quick-to-learn B.Sc. Statistics student currently working as Data Analyst-Engineer Intern at ResoluteAI.in . After discovering my passion for data to extract insightful information that can lead to data driven decision-making pushed me to the data science domain. And now currently I am working with some self paced mini-projects to elevate my skill sets in the field of data analysis, data science and business analytics.
+I am a B.Sc. Statistics student, an avid learner seeking opportunities to build a successful career by enhancing knowledge!. After discovering my passion for data to extract insightful information that can lead to data driven decision-making pushed me to the data science domain. And now currently I am working with some self paced mini-projects to elevate my skill sets in the field of data analysis, data science and business analytics.
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Hi-brightgreen.svg?style=flat&amp;logo=github&amp;color=33cc99" alt="Hi">
@@ -10,14 +10,13 @@ I am a quick-to-learn B.Sc. Statistics student currently working as Data Analyst
   <img src="https://img.shields.io/badge/Age-20-3c9" alt="age">
   <img src="https://img.shields.io/badge/Focus-Data_Science-3c9" alt="focus">
   <img src="https://img.shields.io/badge/Living-Maharashtra-3c9" alt="living">
-  <img src="https://komarev.com/ghpvc/?username=shreya227&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors count">
 </p>
 
 <h2>😉 About Me : </h2>
   
-- 🔭 I’m currently working as **Data Analyst-Engineer Intern at ResoluteAI.in**
+- 🔭 I’m currently seeking an internship opportunity in various data domains.
 - 🌱 I’m currently learning **SQL**
-- 💬 Ask me about : **Anything**
+- 💬 Ask me about : **Statistics**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
 
 #### A little more about me...
