@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I am Shreya Nadkarni <img src="https://raw.githubusercontent.com/PrakashAnalyst/PrakashAnalyst/main/assets/hi.gif" width="30px"></h1> 
 <h3 align="center">I'm a Data Science Fanatic from India ♥️</h3>
 
-I am a B.Sc. Statistics student, an avid learner seeking opportunities to build a successful career by enhancing knowledge!. After discovering my passion for data to extract insightful information that can lead to data driven decision-making pushed me to the data science domain. And now currently I am working with some self paced mini-projects to elevate my skill sets in the field of data analysis, data science and business analytics.
+I am a M.Sc. Statistics and Data Science student, an avid learner seeking opportunities to build a successful career by enhancing knowledge!. After discovering my passion for data to extract insightful information that can lead to data driven decision-making pushed me to the data science domain. And now currently I am working with some self paced mini-projects to elevate my skill sets in the field of data analysis, data science and business analytics.
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Hi-brightgreen.svg?style=flat&amp;logo=github&amp;color=33cc99" alt="Hi">
