@@ -7,7 +7,7 @@ I am a M.Sc. Statistics and Data Science student, an avid learner seeking opport
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Hi-brightgreen.svg?style=flat&amp;logo=github&amp;color=33cc99" alt="Hi">
   <img src="https://img.shields.io/badge/Name-Shreya_Nadkarni-brightgreen.svg?color=33cc99" alt="name">
-  <img src="https://img.shields.io/badge/Age-20-3c9" alt="age">
+  <img src="https://img.shields.io/badge/Age-22-3c9" alt="age">
   <img src="https://img.shields.io/badge/Focus-Data_Science-3c9" alt="focus">
   <img src="https://img.shields.io/badge/Living-Maharashtra-3c9" alt="living">
 </p>
@@ -47,7 +47,6 @@ I am a M.Sc. Statistics and Data Science student, an avid learner seeking opport
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
     <img alt="Scipy" src="https://img.shields.io/badge/SciPy-654FF0?logo=SciPy&logoColor=white">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-0078D7?logo=scikit-learn&logoColor=white">
 </p>
 
@@ -66,28 +65,3 @@ I am a M.Sc. Statistics and Data Science student, an avid learner seeking opport
     <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-302E31?logo=Pycharm&logoColor=white">
 </p>
 
-<h2>🎯 Statistics and Languages :</h2>
-<details open> 
-  <summary>GitHub Profile Stats</summary>
-  <br/>
-    <img width="49%" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya227&show_icons=true&locale=en&layout=compact" alt="shreya227" />
-  <br/>
-</details>
-
-
-<details open> 
-  <summary>GitHub Trophy Stats</summary>
-  <br/>
-  <p align="center">
-    <img width="98%" alt="trophy stats" src="https://github-profile-trophy.vercel.app/?username=shreya227" />
-  </p>
-  <br/>
-</details>
-
-<details open> 
-  <summary>GitHub Stats</summary>
-  <br/>
-  <p align="center">
-    <img width="98%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreya227&show_icons=true&locale=en" alt="shreya227" />
-  </p>  
-</details>
