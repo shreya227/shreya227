@@ -27,7 +27,7 @@ I am a M.Sc. Statistics and Data Science student, an avid learner seeking opport
 <p>
   <a href="mailto:shreyanadkarni95105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shreyanadkarni/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shreyanadkarnii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_shrezzz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/Shreya_n"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=HackerRank&logoColor=white"/></a>
   <a href="https://github.com/shreya227"><img src="https://img.shields.io/badge/Website-grey?logo=About.me&logoColor=white"/></a>
 </p>
@@ -48,6 +48,7 @@ I am a M.Sc. Statistics and Data Science student, an avid learner seeking opport
     <img alt="Scipy" src="https://img.shields.io/badge/SciPy-654FF0?logo=SciPy&logoColor=white">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-0078D7?logo=scikit-learn&logoColor=white">
+    <img alt="StatsModels" src="https://img.shields.io/badge/StatsModels-0078D7?logo=StatsModels&logoColor=white">
 </p>
 
 
@@ -63,5 +64,7 @@ I am a M.Sc. Statistics and Data Science student, an avid learner seeking opport
     <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white">
     <img alt="PowerBI" src="https://img.shields.io/badge/Microsoft_PowerBI-F2C811?logo=Power%20BI&logoColor=white">
     <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-302E31?logo=Pycharm&logoColor=white">
+    <img alt="SPSS" src="https://img.shields.io/badge/SPSS-302E31?logo=data:image/png;base64,INSERT_BASE64_STRING_HERE&logoColor=white">
+
 </p>
 
