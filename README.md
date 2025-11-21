@@ -1,8 +1,7 @@
 ![image](https://user-images.githubusercontent.com/88545581/170678434-ced53066-456d-4cc9-825b-093a9f7ac00c.png)
 <h1 align="center"> Hi, I am Shreya Nadkarni <img src="https://raw.githubusercontent.com/PrakashAnalyst/PrakashAnalyst/main/assets/hi.gif" width="30px"></h1> 
-<h3 align="center">I'm a Data Science Fanatic from India ♥️</h3>
-
-I am a M.Sc. Statistics and Data Science postgraduate, an avid learner seeking opportunities to build a successful career by enhancing knowledge!. After discovering my passion for data to extract insightful information that can lead to data driven decision-making pushed me to the data science domain. And now currently I am working with some self paced mini-projects to elevate my skill sets in the field of data analysis, data science and business analytics.
+<h3 align="center">I'm a Statistics and Data Science Fanatic from India </h3>
+<h3 align="center">An avid learner seeking opportunities to build a successful career by enhancing knowledge! </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Hi-brightgreen.svg?style=flat&amp;logo=github&amp;color=33cc99" alt="Hi">
@@ -15,7 +14,6 @@ I am a M.Sc. Statistics and Data Science postgraduate, an avid learner seeking o
 <h2>😉 About Me : </h2>
   
 - 🔭 I’m currently seeking a job opportunity in various data domains.
-- 🌱 I’m currently learning **MongoDB**
 - 💬 Ask me about : **Statistics**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
 
@@ -28,7 +26,6 @@ I am a M.Sc. Statistics and Data Science postgraduate, an avid learner seeking o
   <a href="mailto:shreyanadkarni95105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shreyanadkarni/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/_shrezzz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/Shreya_n"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=HackerRank&logoColor=white"/></a>
   <a href="https://github.com/shreya227"><img src="https://img.shields.io/badge/Website-grey?logo=About.me&logoColor=white"/></a>
 </p>
  
@@ -65,6 +62,7 @@ I am a M.Sc. Statistics and Data Science postgraduate, an avid learner seeking o
     <img alt="PowerBI" src="https://img.shields.io/badge/Microsoft_PowerBI-F2C811?logo=Power%20BI&logoColor=white">
     <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-302E31?logo=Pycharm&logoColor=white">
     <img alt="SPSS" src="https://img.shields.io/badge/SPSS-302E31?logo=data:image/png;base64,INSERT_BASE64_STRING_HERE&logoColor=white">
+    <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
 
 </p>
 
